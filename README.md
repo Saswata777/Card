@@ -22,11 +22,13 @@ Make sure you have the following installed on your system:
    ```sh
    cd card
    ```
-
+3. **Install required dependencies**
    ```sh
    npm i
    ```
+4. **Start the Project**
 
+Run the following command to start the project:
    ```sh
    npm start
    ```
