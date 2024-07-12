@@ -20,4 +20,14 @@ Make sure you have the following installed on your system:
    Open a terminal and navigate to the project's root directory (where the `package.json` file is located).
 
    ```sh
-   cd path/to/your/project
+   cd card
+   ```
+
+   ```sh
+   npm i
+   ```
+
+   ```sh
+   npm start
+   ```
+   
